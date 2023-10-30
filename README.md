@@ -2,7 +2,7 @@
 
 ![PictoCraft Logo](logo.png)
 
-PictoCraft is a creative web application inspired by OpenAI's DALL·E, designed to generate imaginative images from text descriptions. This project leverages state-of-the-art AI technology to allow users to explore the world of AI-generated art and customize their image creations.
+PictoCraft is a creative web application designed to generate imaginative images from text descriptions. This project leverages state-of-the-art AI technology to allow users to explore the world of AI-generated art and customize their image creations.
 
 ## Table of Contents
 
