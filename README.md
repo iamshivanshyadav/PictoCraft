@@ -84,7 +84,7 @@ OPENAI_API_KEY=your_api_key_here
   npm start
   ```
 
-PictoCraft will be available at [http://localhost:3000](http://localhost:3000).
+PictoCraft will be available at [http://localhost:8000](http://localhost:8000).
 
 ## Usage
 
